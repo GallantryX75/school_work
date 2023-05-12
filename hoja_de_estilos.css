@@ -1,0 +1,33 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 40px;
+    background-color: #436eaa;
+    color: #4c4d50;
+  }
+  h1 {
+    color: #000000;
+    font-family: 'Montserrat';
+    font-size:50px;
+    margin: 1px;
+  }
+  h2 {
+    color: antiquewhite;
+    margin: 1px;
+  }
+  h4 {
+    font-family:'Montserrat', serif;
+  }
+  p {
+    color: #000000;
+    font-family: "Montserrat", serif;
+    font-size: 20px;
+    }
+  li {
+    color: antiquewhite;
+    margin-top: 6px;
+  }
+  h3 {
+    color: #000000;
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+  }
